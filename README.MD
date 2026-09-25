@@ -2,6 +2,8 @@
 
 A small Windows launcher for Stardew Valley's [SMAPI](https://smapi.io). It starts SMAPI in a normal toggleable window, displays a compact overlay while the game loads, and lets you hide or show the terminal with `Ctrl+F12`.
 
+## [Download the latest release on Nexus Mods](https://www.nexusmods.com/stardewvalley/mods/48315)
+
 The launcher does not hide the terminal at startup. It keeps the normal SMAPI console available and adds the overlay with the launch process.
 
 ## Features
